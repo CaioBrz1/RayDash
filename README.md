@@ -13,6 +13,15 @@ The project is structured for a resolution of **1050x1680** (9:16 aspect ratio),
 * **News Ticker (RSS):** Real-time rotating banner, smoothly cycling between news portals (BBC Brasil and Metrópoles).
 * **System Metrics:** Displays system uptime and a RAM usage bar (Linux).
 
+
+
+
+<p align="center">
+  <img src="RayDash.jpeg" width="420" alt="RayDash Vertical Screenshot">
+</p>
+
+
+
 ---
 
 ##  Performance & Real-World Consumption
